@@ -3,7 +3,7 @@
 ![visualisation](./mk-ltk-01.png)
 
 ## Requirements
-* As low prifile as possible
+* As low prifile as possible ( will be about 3cm :/ )
 * Reasonable price around 100€
 * NOT flat profile keycaps
 * Tactile
@@ -15,6 +15,7 @@
 * Sandwich case
 * [Chery keycaps](./keycaps.png)
 * Diodes 1N4148
+* Gateron Brown
 
 ## Still in consideration
 ### Switches
