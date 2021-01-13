@@ -13,7 +13,8 @@
 
 ## Decisions made
 * Sandwich case (stained plywood and painted black steel)
-* ![OEM keycaps](./images/keycaps.png) Unfortunatelly to high for low profile switches
+* ![OEM keycaps](./images/keycaps.png) 
+  Unfortunatelly to high for low profile switches
 * Diodes 1N4148
 * Gateron Brown
 * Plate mounted stabs from Aliexpress
@@ -21,5 +22,5 @@
 * Teensy 2.0++
 
 ## Progress
-
+* ![Plates](./images/plate-and-bottom.jpg)
 
