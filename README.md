@@ -11,6 +11,11 @@
 * Stardart layout (keycaps wise)
 * Make most space for mouse withour loosing functionality (on the right)
 
+## Tools
+* http://www.keyboard-layout-editor.com
+* http://builder.swillkb.com/
+* https://kbfirmware.com/
+
 ## Decisions made
 * Sandwich case (stained plywood and painted black steel)
 * ![OEM keycaps](./images/keycaps.png) 
@@ -73,3 +78,8 @@ Screwless top
 USB type-C cutout
 
 ![usb-c](./images/usb-c.jpg)
+
+
+Switch matrix ([mirrored](./images/switch-matrix-mirror.png))
+
+![Switch matrix](./images/switch-matrix.png)
