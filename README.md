@@ -30,7 +30,7 @@ Metal parts :)
 ![Plates](./images/plate-and-bottom.jpg)
 
 
-Put foam for sound dempaning (legacy acrylic frame)
+Put foam for sound dampening (legacy acrylic frame)
 
 ![With foam](./images/with-foam.jpg)
 
@@ -65,7 +65,7 @@ Fit test full case
 ![Fit test](./images/fit-test-02.jpg)
 
 
-Scrowlles top
+Screwless top
 
 ![Top 2](./images/top-2.jpg)
 
