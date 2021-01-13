@@ -19,8 +19,57 @@
 * Gateron Brown
 * Plate mounted stabs from Aliexpress
 * Krytox GPL 205 G0
+* Switch Films
 * Teensy 2.0++
 
 ## Progress
-* ![Plates](./images/plate-and-bottom.jpg)
 
+
+Metal parts :) 
+
+![Plates](./images/plate-and-bottom.jpg)
+
+
+Put foam for sound dempaning (legacy acrylic frame)
+
+![With foam](./images/with-foam.jpg)
+
+
+Plywood case V1
+
+![Complete case !](./images/complete-case-1.jpg)
+
+
+Wrist rest :D 
+
+![Wrist rest](./images/wrist-rest.jpg)
+
+
+New desk mat
+
+![Desk mat](./images/desk-mat.jpg)
+
+
+Lubing and filling switches
+
+![Lube progress](./images/lube-progress.jpg)
+
+
+Fit test "naked"
+
+![Nude fit test](./images/test-fit-01.jpg)
+
+
+Fit test full case
+
+![Fit test](./images/fit-test-02.jpg)
+
+
+Scrowlles top
+
+![Top 2](./images/top-2.jpg)
+
+
+USB type-C cutout
+
+![usb-c](./images/usb-c.jpg)
