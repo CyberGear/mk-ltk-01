@@ -83,3 +83,8 @@ USB type-C cutout
 Switch matrix ([mirrored](./images/switch-matrix-mirror.png))
 
 ![Switch matrix](./images/switch-matrix.png)
+
+
+Accent keycaps paint job (first ever paint job)
+
+![Paint job](./images/keycap-paint-job.jpg)
