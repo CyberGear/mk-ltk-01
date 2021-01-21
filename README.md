@@ -1,10 +1,11 @@
-# mk-ltk-01
+# Bleeding Charcoal (mk-ltk-01)
 
-![visualisation](./images/mk-ltk-01.png)
+![visualisation](./images/mk-ltk-01-bleeding-charcoal.png)
+[First Idea](./images/mk-ltk-01.png)
 
 ## Initial Requirements
 * As low prifile as possible
-* Reasonable price around 100€
+* Reasonable price around 100€ (failed! 170€)
 * NOT flat profile keycaps
 * Tactile
 * Left side num pad
@@ -15,6 +16,7 @@
 * http://www.keyboard-layout-editor.com
 * http://builder.swillkb.com/
 * https://kbfirmware.com/
+* https://noroadsleft.github.io/kbf_qmk_converter/
 
 ## Decisions made
 * Sandwich case (stained plywood and painted black steel)
