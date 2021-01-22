@@ -5,7 +5,7 @@
 
 ## Details
 * **Keeb**: Black steel dust painted plate, sandvich case, stained plywood
-* **Kaycaps**: [Aliexpress ones](https://www.aliexpress.com/item/1005001285224963.html?spm=a2g0s.9042311.0.0.27424c4dBEbhVW)
+* **Kaycaps**: [Aliexpress ones](https://www.aliexpress.com/item/1005001285224963.html?spm=a2g0s.9042311.0.0.27424c4dBEbhVW) also custom painted for accent caps
 * **Switches**: Gateron brown, Lubed with Krytox 205g0, and filmed.
 * **Stabs**: [Aliexpress ones](https://www.aliexpress.com/item/10000249766414.html?spm=a2g0s.9042311.0.0.27424c4dtrbYE2)
 
