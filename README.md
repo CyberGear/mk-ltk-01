@@ -100,3 +100,33 @@ Usb type-c Integration
 More foam
 
 ![more foam](./images/more-foam.jpg)
+
+
+Total foam
+
+![total foam](./images/how-cramped-it-is.jpg)
+
+
+Suprisingly Simple Adjustable Legs
+
+![legs](./images/legs.jpg)
+
+
+Custom Spray Painted Keycaps
+
+![Keycaps](./images/custom-keycaps.jpg)
+
+
+Stained plywood finish
+
+![finish](./images/stained-plywood.jpg)
+
+
+Wire
+
+![wire](./images/wire.jpg)
+
+
+RESULT
+
+![Keeb](./bleeding-charcoal.jpg)
