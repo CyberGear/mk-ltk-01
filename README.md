@@ -87,6 +87,16 @@ Switch matrix ([mirrored](./images/switch-matrix-mirror.png))
 ![Switch matrix](./images/switch-matrix.png)
 
 
-Accent keycaps paint job (first ever paint job)
+Wiring
 
-![Paint job](./images/keycap-paint-job.jpg)
+![wiring](./images/wiring.jpg)
+
+
+Usb type-c Integration
+
+![usb type-c](./images/usb-c-integration.jpg)
+
+
+More foam
+
+![more foam](./images/more-foam.jpg)
