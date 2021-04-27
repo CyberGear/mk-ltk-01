@@ -3,6 +3,7 @@ Demensions
 2.38125 (center step grid step)
 1.190625 (half grid)
 0,5953125 (half half grid)
+0,29765625 (half half half grid)
 
 19.05	(1U size)
 
@@ -13,3 +14,6 @@ Demensions
 
 122.775 (pcb height)
 408.526 (pcb width)
+
+
+
